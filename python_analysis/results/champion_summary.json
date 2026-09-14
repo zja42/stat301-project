@@ -1,0 +1,10 @@
+{
+  "random_seed": 42,
+  "primary_metric": "PR-AUC",
+  "champion_model": "Random forest",
+  "tuned_threshold": 0.44740613225640397,
+  "development_oof_f1_at_tuned_threshold": 0.6877106956788233,
+  "total_sessions": 12330,
+  "purchase_sessions": 1908,
+  "purchase_rate": 0.15474452554744525
+}
